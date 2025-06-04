@@ -9,5 +9,5 @@
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machines In Azure](https://github.com/JavonGil/Creating-VM-S)
   - [Active Directory Infrastructure](https://github.com/JavonGil/Creating-ad-infrastructure)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Observing Network Traffic and Network Security Groups Functions(NSG)](https://github.com/JavonGil/azure-networktraffic-networksecuritygroups-NSG-)
   

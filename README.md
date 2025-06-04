@@ -8,6 +8,6 @@
   - [Observing Network Traffic and Network Security Groups Functions(NSG)](https://github.com/JavonGil/azure-networktraffic-networksecuritygroups-NSG-)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JavonGil/osTicket-install-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/JavonGil/osTicket-post-install)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
   

@@ -12,4 +12,4 @@
   - [osTicket: Ticket Lifecycle Conflict & Resoulition](https://github.com/JavonGil/Ticket-Lifecycle)
 - <b>Active Directory</b>
   - [AD Deployment and Configuration](https://github.com/JavonGil/ad-deployment-configuration)
-  
+  - [Creating Users and Group Policy Objects for AD](https://github.com/JavonGil/creating-users-group-policy)

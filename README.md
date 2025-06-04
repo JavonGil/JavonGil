@@ -7,7 +7,7 @@
   - [Active Directory Infrastructure](https://github.com/JavonGil/Creating-ad-infrastructure)
   - [Observing Network Traffic and Network Security Groups Functions(NSG)](https://github.com/JavonGil/azure-networktraffic-networksecuritygroups-NSG-)
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Prerequisites and Installation](https://github.com/JavonGil/osTicket-install-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
   
